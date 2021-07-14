@@ -1,11 +1,11 @@
 local name = "estafette"
-local version = "0.1.3"
+local version = "0.1.4"
 local description = "The command-line interface for Estafette - The resilient and cloud-native CI/CD platform"
 local homepage = "https://github.com/estafette/estafette"
 local repository = "https://github.com/estafette/estafette"
-local darwinSha256 = "2a84989c7b4f5f9d261362d2f82c4d6067c2904267bb762a2c5b46a16f77154c"
-local linuxSha256 = "2a4418ad7c1c5ea576a3fdbbdadec64978f67ff4187afb907c06f22e4cab1148"
-local windowsSha256 = "c4d7184a652dedceb020e678131b7d044c88d46bcf2080e3a980423af2e4d5a9"
+local darwinSha256 = "0e2f23851dd434123b171268a6670e97309d56472614049a92a8a54766ba9ae5"
+local linuxSha256 = "1b74243b2dce32ec817e32d8a640b3c0b1a08d8439ff554582a091f1fc2be56d"
+local windowsSha256 = "66ac0f013179afa2ecefb10efb9475275f0094791be2f65b58f3d977df4fc271"
 
 food = {
     name = name,
